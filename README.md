@@ -30,17 +30,12 @@ Database:       MySQL
 
 ## 📁 Projects
 
-### Project A: [Project Name]
-*   **Description:** [Brief description of the project and your role as a QA tester.]
-*   **Technologies Used:** [e.g., Selenium, TestNG, Jira]
-*   **Key Contributions:** [e.g., Developed automation test suite, Identified critical bugs, Improved test coverage by X%]
-*   [Link to Project Repository/Demo (if applicable)]
+-  [**SauceDemo**](https://github.com/Avulamahesh0511/SauceDemo-Automation-pom/tree/main)
+  Automated key user flows on the Swag Labs site, such as login, product sorting, cart management, and checkout, using Selenium with Java and TestNG.
+   -- Implemented a Page Object Model (POM) structure and integrated Maven for efficient test organization and execution.
 
-### Project B: [Project Name]
-*   **Description:** [Brief description of the project and your role as a QA tester.]
-*   **Technologies Used:** [e.g., Postman, Cypress, Azure DevOps]
-*   **Key Contributions:** [e.g., Performed extensive API testing, Designed and executed performance tests]
-*   [Link to Project Repository/Demo (if applicable)]
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 ## 🎯 Use-Cases I’ve Explored
 
@@ -77,7 +72,7 @@ Database:       MySQL
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1S1wJrNSU1wgM7yaClvTTnXg2pskDYnSk/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1JcLvzIsFa_j4tKzJV0lC4Q0WMa43kdI-/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/resume.png" width="40" height="40" alt="Resume"/>
   </a>
 </p>
