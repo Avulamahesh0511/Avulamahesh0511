@@ -30,9 +30,13 @@ Database:       MySQL
 
 ## 📁 Projects
 
+-  [**Praticesoftwaretesting**](https://github.com/Avulamahesh0511/SoftwareTestingPratice-maual-)
+  Tested core functionalities like login, registration, search, and checkout on Practice Software Testing website to ensure seamless user experience.
+      --Found and reported defects with clear steps for better understanding.
+
 -  [**SauceDemo**](https://github.com/Avulamahesh0511/SauceDemo-Automation-pom/tree/main)
   Automated key user flows on the Swag Labs site, such as login, product sorting, cart management, and checkout, using Selenium with Java and TestNG.
-   -- Implemented a Page Object Model (POM) structure and integrated Maven for efficient test organization and execution.
+     -- Implemented a Page Object Model (POM) structure and integrated Maven for efficient test organization and execution.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
